@@ -1,0 +1,8 @@
+ run 
+serverK on kansas
+serverG on Glados
+serverio on iowa
+serverid on idaho
+serverN on newyork
+
+enter 1 when you want to start the election
